@@ -12,7 +12,9 @@
     <artifactId>jheroku-keep-alive</artifactId>
     <version>0.0.1</version>
     <name>jheroku-keep-alive</name>
-    <description>jheroku-keep-alive</description>
+    <description>An annotation for spring boot to prevent your app running on heroku from hibernating</description>
+    <packaging>jar</packaging>
+    <url>https://github.com/PickwickSoft/jheroku-keep-alive</url>
     <properties>
         <java.version>17</java.version>
     </properties>
