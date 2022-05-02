@@ -10,7 +10,7 @@
     </parent>
     <groupId>org.pickwicksoft</groupId>
     <artifactId>jheroku-keep-alive</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>0.0.1</version>
     <name>jheroku-keep-alive</name>
     <description>jheroku-keep-alive</description>
     <properties>
