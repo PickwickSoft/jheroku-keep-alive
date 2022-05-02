@@ -1,7 +1,6 @@
 package org.pickwicksoft.jherokukeepalive.services;
 
 import org.apache.http.client.fluent.Request;
-import org.springframework.lang.NonNull;
 import org.springframework.scheduling.annotation.Scheduled;
 import org.springframework.stereotype.Service;
 
