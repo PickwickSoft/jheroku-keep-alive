@@ -10,7 +10,7 @@
     </parent>
     <groupId>org.pickwicksoft</groupId>
     <artifactId>jheroku-keep-alive</artifactId>
-    <version>0.0.1</version>
+    <version>1.0.0</version>
     <name>jheroku-keep-alive</name>
     <description>An annotation for spring boot to prevent your app running on heroku from hibernating</description>
     <packaging>jar</packaging>
