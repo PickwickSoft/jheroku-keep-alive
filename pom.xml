@@ -21,6 +21,13 @@
         <maven.compiler.target>11</maven.compiler.target>
         <maven.compiler.release>11</maven.compiler.release>
     </properties>
+    <distributionManagement>
+        <repository>
+            <id>github</id>
+            <name>GitHub PickwickSoft Apache Maven Packages</name>
+            <url>https://maven.pkg.github.com/PickwickSoft/jheroku-keep-alive</url>
+        </repository>
+    </distributionManagement>
     <dependencies>
         <dependency>
             <groupId>org.springframework.boot</groupId>
